@@ -157,6 +157,5 @@ module.exports.MovieRepo = {
     getMovieList: getMovieList,
     getMovieSearch: getMovieSearch,
     postMovie: postMovie,
-    dropMovie: dropMovie,
     
 };
